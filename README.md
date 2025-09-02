@@ -1,6 +1,6 @@
 # Lore Board
 
-A Kanban for tracking my learning journey: [Lore Board](https://github.com/users/MarcyMarxy/projects/4/views/4)
+A Kanban for tracking my learning journey: [Lore Board](https://github.com/users/MarcyMarxy/projects/4/views/4) 🗃️
 
 ## How to Use
 
@@ -20,7 +20,7 @@ A Kanban for tracking my learning journey: [Lore Board](https://github.com/users
 
 ## Project Columns
 
-- Backlog → Sprint → In Progress → Done
+- Backlog → In Progress → Sprint → Done
 
 ## Philosophy
 
