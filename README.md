@@ -4,7 +4,7 @@ A Kanban for tracking my learning journey.
 
 ## How to Use
 
-1. Create issues for items in the Kanban view
+1. Create issues for items in the Kanban view\
    Or for automated tracking:
    - Create milestones in the repository's Milestones section
    - Create issues within a milestone
